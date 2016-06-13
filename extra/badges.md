@@ -14,6 +14,8 @@
 
 ![Official Steam](https://img.shields.io/badge/official-steam-000000.svg)
 
+![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
+
 + Licenses
 
 ![For use in Unreal Games](https://img.shields.io/badge/license-unreal-green.svg)
@@ -25,6 +27,12 @@
 ![Mixed Licenses](https://img.shields.io/badge/license-mixed-blue.svg)
 
 ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
+
+![Free Alpha](https://img.shields.io/badge/license-free_alpha-green.svg)
+
++ Preknowledge
+
+![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 + Solution Type
 
@@ -40,3 +48,12 @@
 
 ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) 
 
++ Operating System
+
+![Windows](https://img.shields.io/badge/os-windows-blue.svg) 
+
+![Linux](https://img.shields.io/badge/os-linux-yellow.svg) 
+
+![Mac](https://img.shields.io/badge/os-mac-orange.svg) 
+
+![Cloud](https://img.shields.io/badge/os-cloud-red.svg) 

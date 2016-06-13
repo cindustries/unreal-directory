@@ -4,8 +4,6 @@ Building your game
 
 ## General
 
-+ [A free, open-source, cross-platform UE4-compatible game launcher](https://forums.unrealengine.com/showthread.php?29904-Launchpad-A-free-open-source-UE4-compatible-game-launcher) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
-
 ## Android
 
 ## AppleTV

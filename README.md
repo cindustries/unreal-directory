@@ -5,7 +5,11 @@ Feel free to make pull requests for the files inside the sub directories of this
 
 # Tutorials
 
-+ [How to create a shooter game from scratch using Unreal Engine 4](http://shootertutorial.com/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
++ [Unreal Engine Tutorial for Beginners](https://www.raywenderlich.com/97058/unreal-engine-tutorial-for-beginners-part-1) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
+
+Very detailed blog series giving an introduction to all parts of Unreal Engine, very good for beginners
+
++ [How to create a shooter game from scratch using Unreal Engine 4](http://shootertutorial.com/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 Very good overall tutorial about how to create a shooter game with many more additional information
 
@@ -31,11 +35,35 @@ Kitatus exists to help you gain a better understanding of Unreal Engine 4’s fe
 
 ## Sample
 
++ [Official Content Examples](https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
+
+Very good starter example set for understanding the basic functionalities of the Engine
+
 ### Peter L. Newton
 
 Several ready to go example projects about various topics (TODO: should be sorted in onto specific topics, if possible)
 
 + [Sliding Cards](http://www.mediafire.com/download/e9i62cu9t2g2car)
+
+
+
+
+# Community
+
++ [Official Unreal Engine Forum](https://forums.unrealengine.com/) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
+
++ [Official Unreal Engine Question](https://answers.unrealengine.com/) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
+
++ [IRC Channel #unrealengine on Freenode](https://webchat.freenode.net/?channels=#unrealengine)
+
++ [Facebook Group of Unreal Engine 4 Developers](https://www.facebook.com/groups/ue4devs)
+
+## Blogs
+
++ [Official Unreal Engine Blog](https://www.unrealengine.com/blog) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
+
++ [Michael Allar's Blog](http://allarsblog.com/)
+
 
 
 
@@ -58,6 +86,84 @@ Resources around the editor
 
 
 
+# Tools
+
+## Software Development
+
++ [Blender](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
+
+Free Visual Studio Community Edition, essential for working with C++ projects or for recompiling any kind of plugins for your project.
+
+## Modelling (and more)
+
++ [Blender](https://www.blender.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Blender, the well known free 3D modelling software.
+
++ [3ds Max](http://www.autodesk.de/store/products/3ds-max) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
++ [MakeHuman](http://www.makehuman.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Open Source tool for making 3D characters.
+
++ [sculptris](http://pixologic.com/sculptris/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg) 
+
+Sculptris provides an excellent gateway into the exciting world of 3D. It's features are easy to learn, even for someone with no experience in digital art, yet robust enough for creating base models that can then be refined in other applications, such as ZBrush.
+
++ [Simplygon](https://www.simplygon.com/games) ![Cloud](https://img.shields.io/badge/os-cloud-red.svg) 
+
+Simplygon is the leading solution for automatic optimization of 3D-game content and Level of Detail creation. By replacing tedious and time-consuming manual work, Simplygon offers the benefits of LODs but without the drawbacks of increased production time and development cost. (Free for personal use)
+
++ [HMES TerreSculptor](http://www.lilchips.com/hmes.htm) ![Free Alpha](https://img.shields.io/badge/license-free_alpha-green.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
++ [MeshLab](http://meshlab.sourceforge.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured 3D triangular meshes.
+
++ [Wings 3D](http://www.wings3d.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+## Materials
+
+## Audio
+
++ [Audacity](https://sourceforge.net/projects/audacity/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Audacity is a free, easy-to-use, multi-track audio editor and recorder. The interface is translated into many languages.
+
++ [Audacity](http://www.bfxr.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Tool for sound effect generation.
+
++ [Studio One 3 Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-Free) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Free version of a high class audio software.
+
+## Animation
+
++ [Maya](http://www.autodesk.de/products/maya/overview) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+## Distribution
+
++ [A free, open-source, cross-platform game launcher](https://forums.unrealengine.com/showthread.php?29904-Launchpad-A-free-open-source-UE4-compatible-game-launcher) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
+
+## Compostion
+
++ [Fusion 8](https://www.blackmagicdesign.com/products/fusion) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Fusion is the world’s most advanced compositing software for visual effects artists, broadcast and motion graphic designers and 3D animators.
+
+## Streaming / Capturing
+
++ [Open Broadcaster Software](https://obsproject.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+For streaming your Unreal Engine usage or your actual game to the world.
+
++ [GifCam](http://blog.bahraniapps.com/gifcam/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Small little tool to generate quick animated gifs of your screen. Very helpful for exchanging a specific situation problem with others in the community.
+
+
+
 # Blueprint
 
 Working with Blueprints
@@ -67,8 +173,6 @@ Working with Blueprints
 + [Blueprint Essentials](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl) ![1 hours 29 minutes YouTube](https://img.shields.io/badge/youtube-1h29m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
 
 + [How boolean gates operate: For Beginners](https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
-
-https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners
 
 ## Blueprint Libraries
 
@@ -84,7 +188,7 @@ Very awesome Blueprint Library, a must have for every project
 
 Working with C++ in General
 
-+ [Entry Level Guide to UE4 C++](https://wiki.unrealengine.com/Entry_Level_Guide_to_UE4_C%2B%2B) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
++ [Entry Level Guide to UE4 C++](https://wiki.unrealengine.com/Entry_Level_Guide_to_UE4_C%2B%2B) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![C++ solution](https://img.shields.io/badge/c++-solution-red.svg)
 
 
 
@@ -151,8 +255,6 @@ Building your game
 
 ## General
 
-+ [A free, open-source, cross-platform UE4-compatible game launcher](https://forums.unrealengine.com/showthread.php?29904-Launchpad-A-free-open-source-UE4-compatible-game-launcher) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
-
 ## Android
 
 ## AppleTV
@@ -207,7 +309,19 @@ Everything about materials
 
 
 
+# Audio
+
++ [Audio and Blueprints](https://www.youtube.com/watch?v=qFHSm8qfCBA) ![1 hour 18 minutes YouTube](https://img.shields.io/badge/youtube-1h18m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
+
+Audio and Blueprints 
+
+
+
 # Networking
+
++ [Network Compendium PDF](http://cedric.bnslv.de/Downloads/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf)
+
+111 Pages with everything about Networking in Unreal Engine 4 by Cedric 'eXi' Neukirchen
 
 + [Come Learn Blueprint Multiplayer with me! aka Tom's a Glutton for Punishment](https://forums.unrealengine.com/showthread.php?2107-Come-Learn-Blueprint-Multiplayer-with-me!-%28aka-Tom-s-a-Glutton-for-Punishment%29) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
@@ -264,11 +378,9 @@ API of Steam to be integrated into the game for getting full access of the optio
 
 Where to get assets for your next top game
 
-+ [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg) ![Free](https://img.shields.io/badge/license-unreal-green.svg)
++ [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg) ![For use in Unreal Games](https://img.shields.io/badge/license-unreal-green.svg)
 
 + [Community Driven Free Software Tools & Resources List](https://forums.unrealengine.com/showthread.php?57471-Community-List-Free-Software-Tools-amp-Resources-List) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
-
-https://forums.unrealengine.com/showthread.php?57471-Community-List-Free-Software-Tools-amp-Resources-List
 
 ## Models
 
@@ -284,7 +396,7 @@ Marketplace for assets, not specific for Unreal Engine, but can be used in most 
 
 Models with very diverse quality, but many for free commerical use
 
-+ [Blend Swap](http://www.blendswap.com/) ![Creative Common License](https://img.shields.io/badge/license-cc-green.svg)
++ [Blend Swap](http://www.blendswap.com/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
 
 Blend Swap is a community of passionate Blender Artists who share their work under Creative Commons Licenses
 

@@ -18,7 +18,9 @@ __EOC__
 $readme->append((path($FindBin::Dir,'..')->child($_.'.md')->slurp)."\n\n\n\n") for qw(
 
   Tutorials
+  Community
   Editor
+  Tools
   Blueprint
   C++
   Controller
@@ -27,6 +29,7 @@ $readme->append((path($FindBin::Dir,'..')->child($_.'.md')->slurp)."\n\n\n\n") f
   Building
   Models
   Materials
+  Audio
   Networking
   BehaviorTree
   Publishing

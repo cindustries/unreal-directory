@@ -5,7 +5,7 @@ use warnings;
 use Path::Tiny;
 use FindBin;
 
-my $readme = path('README.md');
+my $readme = path($FindBin::Dir,'..')->child('README.md');
 
 $readme->spew(<<__EOC__);
 
@@ -15,7 +15,7 @@ Feel free to make pull requests for the files inside the sub directories of this
 
 __EOC__
 
-$readme->append((path($FindBin::Dir)->child($_.'.md')->slurp)."\n\n\n\n") for qw(
+$readme->append((path($FindBin::Dir,'..')->child($_.'.md')->slurp)."\n\n\n\n") for qw(
 
   Tutorials
   Editor

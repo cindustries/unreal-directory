@@ -2,11 +2,9 @@
 
 Where to get assets for your next top game
 
-+ [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg) ![Free](https://img.shields.io/badge/license-unreal-green.svg)
++ [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg) ![For use in Unreal Games](https://img.shields.io/badge/license-unreal-green.svg)
 
 + [Community Driven Free Software Tools & Resources List](https://forums.unrealengine.com/showthread.php?57471-Community-List-Free-Software-Tools-amp-Resources-List) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
-
-https://forums.unrealengine.com/showthread.php?57471-Community-List-Free-Software-Tools-amp-Resources-List
 
 ## Models
 
@@ -22,7 +20,7 @@ Marketplace for assets, not specific for Unreal Engine, but can be used in most 
 
 Models with very diverse quality, but many for free commerical use
 
-+ [Blend Swap](http://www.blendswap.com/) ![Creative Common License](https://img.shields.io/badge/license-cc-green.svg)
++ [Blend Swap](http://www.blendswap.com/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
 
 Blend Swap is a community of passionate Blender Artists who share their work under Creative Commons Licenses
 

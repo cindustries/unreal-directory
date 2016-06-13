@@ -15,7 +15,7 @@ Feel free to make pull requests for the files inside the sub directories of this
 
 __EOC__
 
-$readme->append(path($FindBin::Dir)->child($_.'.md')->slurp) for qw(
+$readme->append((path($FindBin::Dir)->child($_.'.md')->slurp)."\n\n\n\n") for qw(
 
   Tutorials
   Editor
@@ -30,6 +30,7 @@ $readme->append(path($FindBin::Dir)->child($_.'.md')->slurp) for qw(
   Networking
   BehaviorTree
   Publishing
+  Monetization
   Assets
   Games
 

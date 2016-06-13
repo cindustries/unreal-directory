@@ -8,8 +8,6 @@ Working with Blueprints
 
 + [How boolean gates operate: For Beginners](https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
-https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners
-
 ## Blueprint Libraries
 
 + [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)

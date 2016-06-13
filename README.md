@@ -3,143 +3,146 @@
 
 Feel free to make pull requests for the files inside the sub directories of this repositories, do not make pull requests on this README.md
 
-
 # Tutorials
-
 
 ## Videos
 
-Video Tutorials explaining the complete processes of game development with Unreal Engine 4
++ [RTS Tutorial Series](https://www.youtube.com/playlist?list=PLDnygpcOYwFW2XtNyiandrLDG__OAZs7Q) ![19 hours 56 minutes YouTube](https://img.shields.io/badge/youtube-19h56m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-+ [Official Unreal Engine 4 Video Tutorials](http://docs.unrealengine.com/latest/INT/Videos/)
+Very good big tutorial about how to create a RTS
 
-The best resource are, of course, the official tutorial videos at the Unreal Engine 4 documentation.
++ [RTS Series](https://www.youtube.com/playlist?list=PLA3VyVTnpwF7xHqJTHx7cUU8GhE5Wtrxk) ![2 days 7 hours 1 minute YouTube](https://img.shields.io/badge/youtube-2d7h1m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-+ [Shooter Tutorial](http://shootertutorial.com/)
+Another even bigger tutorial about how to a RTS
 
-how to create a shooter game from scratch using Unreal Engine 4
+## Courses
 
-+ [Indie Game Tutorial](http://www.indiegametutorial.com/)
++ [Kitatus](http://kitatus.co.uk/)
 
-Josh documents his complete journey on creating an Indie Game, designing, coding & marketing.
+Kitatus exists to help you gain a better understanding of Unreal Engine 4’s features and helps you take your projects to the next level
 
-+ [Some free courses at Kitatus](http://kitatus.co.uk/category/free-content/projects/)
+## Sample
 
+# Editor
 
+Resources around the editor
 
+## Teamwork
 
-## Example
+## Source Control
 
-Projects with full accessable example project additionally to the actual information material
+## Plugins
 
-+ [Survival Sample Game](http://www.tomlooman.com/survival-sample-game-for-ue4/)
+# Blueprint
 
-Survival Sample Game in C++ for Unreal Engine 4 by Tom Looman
-
-
-# Engine
-
-
-## Editor
-
-
-
-
-## Blueprint
-
-+ [Blueprint Editor Tips and Tricks](https://www.unrealengine.com/blog/blueprint-editor-tips-tricks)
-
-Post at the official Unreal Engine Blog with a lot of tips and tricks around Blueprint handling.
-
-
-## C++
-
-
-
-
-# Games
-
-
-## Closed
-
-Commerical Games made with the Unreal Engine 4
-
-+ [Ark Survival Evolved](http://www.playark.com/)
-
-Very good Unreal Engine integration with ready to go Editor for modding (can be installed via Epic Launcher)
-
-
-
-## Open
-
-OpenSource Games made with the Unreal Engine 4
-
-
-# Building
-
+Working with Blueprints
 
 ## General
 
-General informations about the building process of Unreal Engine 4
+## Blueprint Libraries
+
+# C++
+
+Working with C++ in General
 
 
-## Mac
+# Controller
 
+## AI Controller
 
++ [Simple RTS Select, Click, and Move Without Behavior Tree](https://www.youtube.com/watch?v=JWMs1Aa_jfI) ![18 minutes YouTube](https://img.shields.io/badge/youtube-18m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
+Tutorial specific to realize classical RTS pawn movement without using Behaviour Tree
 
-## HTML5
++ [Basic AI Navigation](https://www.youtube.com/watch?v=-KDazrBx6IY) ![7 minutes YouTube](https://img.shields.io/badge/youtube-7m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
+## Player Controller
 
+## Input devices
 
+# Level
 
-## Linux
+Everything about level generation
 
+## Procedural Generation
 
++ [Procedural forest creation at runtime](http://www.michalorzelek.com/blog/tutorial-procedural-forest-creation-at-runtime/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![2 minutes YouTube](https://img.shields.io/badge/youtube-2m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
+Creating a dynamic forest at runtime
 
-## AppleTV
++ [Procedural Generated Building](https://www.youtube.com/playlist?list=PLY_FQXauSxlCnuHYiqQhgz_ZTy1q_UOFZ) ![55 minutes YouTube](https://img.shields.io/badge/youtube-55m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
+Generating Buildings through Blueprints
 
+# Building
 
+Building your game
 
-## Windows
-
-
-
-
-## Xbox One
-
-
-
-
-## iOS
-
-
-
-
-## PlayStation 4
-
-
-
+## General
 
 ## Android
 
+## AppleTV
 
+## HTML5
 
+## iOS
 
-# HUD
+## Linux
 
+## Mac
+
+## PlayStation 4
+
+## Windows
+
+## Xbox One
+
+# Models
+
+Everything about models
+
+## Procedural Mesh
+
++ [Procedural Mesh Component Documentation](https://docs.unrealengine.com/latest/INT/BlueprintAPI/Components/ProceduralMesh/index.html) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
+
++ [How to use Procedural Mesh Component in Blueprint?](https://answers.unrealengine.com/questions/295318/how-to-use-procedural-mesh-component-in-blueprint.html) ![UE4 AnswerHub](https://img.shields.io/badge/answerhub-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 # Materials
 
+Everything about materials
 
-# Plugins
+## Procedural Generation
 
++ [Procedural landscape materials](http://joy-machine.com/blog/2015/9/25/unreal-engine-4-procedural-landscape-materials) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-## Blueprint Libraries
+# Publishing
 
-+ [Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin)
+## Apple
 
-A must have collection of very useful Blueprints, source included.
+## Google
+
+## Steam
+
+# Assets
+
+Where to get assets for your next top game
+
++ [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg) ![Free](https://img.shields.io/badge/license-unreal-green.svg)
+
+## Models
+
++ [TurboSquid 3D Models for professionals](http://www.turbosquid.com/)
+
+Marketplace for assets, not specific for Unreal Engine, but can be used in most cases.
+
++ [Grindstone Models](https://forums.unrealengine.com/showthread.php?60784-FREE-Various-models/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+Free models of the never released game Grindstone. Modern weapons and modern room interior.
+
+# Games
+
+## Open Source
+
+## Commercial
 

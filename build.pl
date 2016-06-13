@@ -23,9 +23,12 @@ $readme->append(path($FindBin::Dir)->child($_.'.md')->slurp) for qw(
   C++
   Controller
   Level
+  HUD
   Building
   Models
   Materials
+  Networking
+  BehaviorTree
   Publishing
   Assets
   Games

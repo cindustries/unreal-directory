@@ -1,14 +1,22 @@
 # Tutorials
 
++ [How to create a shooter game from scratch using Unreal Engine 4](http://shootertutorial.com/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
+
+Very good overall tutorial about how to create a shooter game with many more additional information
+
+## Other Tutorial Directories
+
++ [Unreal Engine 4 Community Tutorials](https://wiki.unrealengine.com/Category:Tutorials) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
+
 ## Videos
 
 + [RTS Tutorial Series](https://www.youtube.com/playlist?list=PLDnygpcOYwFW2XtNyiandrLDG__OAZs7Q) ![19 hours 56 minutes YouTube](https://img.shields.io/badge/youtube-19h56m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-Very good big tutorial about how to create a RTS
+Very good tutorial about how to build a RTS
 
 + [RTS Series](https://www.youtube.com/playlist?list=PLA3VyVTnpwF7xHqJTHx7cUU8GhE5Wtrxk) ![2 days 7 hours 1 minute YouTube](https://img.shields.io/badge/youtube-2d7h1m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-Another even bigger tutorial about how to a RTS
+Gigantic tutorial about how to build a RTS (yes, 2 days of Youtube video)
 
 ## Courses
 
@@ -18,3 +26,8 @@ Kitatus exists to help you gain a better understanding of Unreal Engine 4’s fe
 
 ## Sample
 
+### Peter L. Newton
+
+Several ready to go example projects about various topics (TODO: should be sorted in onto specific topics, if possible)
+
++ [Sliding Cards](http://www.mediafire.com/download/e9i62cu9t2g2car)

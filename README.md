@@ -13,7 +13,12 @@ Very detailed blog series giving an introduction to all parts of Unreal Engine, 
 
 Very good overall tutorial about how to create a shooter game with many more additional information
 
-+ [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
++ [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
+
++ [UE4U - Tutorial collection] (http://www.ue4u.xyz/)
++ [YT UE4 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
+
++ [Several Blueprint Solution tutorial videos](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 ## Other Tutorial Directories
 
@@ -161,6 +166,12 @@ MeshLab is an open source, portable, and extensible system for the processing an
 
 Tree It is an easy to use real time 3d tree generator for the simple creation of your very own 3d tree models for your dark basic pro and dark GDK apps and games.
 
++ [Spacescape](http://alexcpeterson.com/spacescape/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Spacescape is a free tool for creating space skyboxes with stars and nebulas.
+
++ [Terrain Generator](http://nemesis.thewavelength.net/index.php?p=9) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
 ## Image manipulation
 
 + [GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
@@ -213,6 +224,7 @@ Small little tool to generate quick animated gifs of your screen. Very helpful f
 
 
 
+
 # Blueprint
 
 Working with Blueprints
@@ -223,8 +235,7 @@ Working with Blueprints
 
 + [How boolean gates operate: For Beginners](https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
-+ [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) 
-![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
++ [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 ## Blueprint Libraries
 
@@ -352,6 +363,8 @@ Everything about models
 # Materials
 
 Everything about materials
+
++ [YT Tutorial Series about Materials](https://www.youtube.com/playlist?list=PLCRINH2nS_5lP3tiu1AdX_nthTobes3xi) 
 
 ## Procedural Generation
 

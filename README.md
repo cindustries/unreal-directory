@@ -96,9 +96,9 @@ Several ready to go example projects about various topics (TODO: should be sorte
 
 
 
-# Events
+# Events and Meetings
 
-Where to meet Unreal Engine Developers in the real world! Also with [Events Map](Events.geojson)
+Where to meet Unreal Engine Developers in the real world! Also with [Events and Meetings Map](Events.geojson)
 
 ## Europe
 
@@ -106,6 +106,7 @@ Where to meet Unreal Engine Developers in the real world! Also with [Events Map]
 
 Once a month
 
++ [Unreal Engine User Group NRW, Germany](http://www.meetup.com/Unreal-Engine-User-Group-NRW/)
 
 
 

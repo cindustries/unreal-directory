@@ -100,15 +100,6 @@ Several ready to go example projects about various topics (TODO: should be sorte
 
 Here is a [Map](Events.geojson) of all meeting groups and events.
 
-## Europe
-
-+ [Unreal Engine Meetup Vienna, Austria](http://www.meetup.com/Unreal-User-Group-Vienna/)
-
-Once a month
-
-+ [Unreal Engine User Group NRW, Germany](http://www.meetup.com/Unreal-Engine-User-Group-NRW/)
-
-
 
 
 
@@ -134,7 +125,7 @@ Resources around the editor
 
 ## Software Development
 
-+ [Blender](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
++ [Visual Studio Community Edition](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
 
 Free Visual Studio Community Edition, essential for working with C++ projects or for recompiling any kind of plugins for your project.
 
@@ -231,6 +222,9 @@ Working with Blueprints
 + [Blueprint Essentials](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl) ![1 hours 29 minutes YouTube](https://img.shields.io/badge/youtube-1h29m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
 
 + [How boolean gates operate: For Beginners](https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
+
++ [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) 
+![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 ## Blueprint Libraries
 

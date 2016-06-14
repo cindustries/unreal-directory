@@ -17,6 +17,8 @@ Very good overall tutorial about how to create a shooter game with many more add
 
 + [Unreal Engine 4 Community Tutorials](https://wiki.unrealengine.com/Category:Tutorials) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
 
++ [Tutorials list maintained by Facebook Group](https://www.facebook.com/notes/ue4-game-developers-club/tutorials/1450770775173548)
+
 ## Videos
 
 + [RTS Tutorial Series](https://www.youtube.com/playlist?list=PLDnygpcOYwFW2XtNyiandrLDG__OAZs7Q) ![19 hours 56 minutes YouTube](https://img.shields.io/badge/youtube-19h56m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
@@ -56,13 +58,19 @@ Several ready to go example projects about various topics (TODO: should be sorte
 
 + [IRC Channel #unrealengine on Freenode](https://webchat.freenode.net/?channels=#unrealengine)
 
-+ [Facebook Group of Unreal Engine 4 Developers](https://www.facebook.com/groups/ue4devs)
++ [Open Facebook Group of Unreal Engine 4 Developers](https://www.facebook.com/groups/unrealfour)
+
++ [Closed Facebook Group of Unreal Engine 4 Developers](https://www.facebook.com/groups/ue4devs)
 
 ## Blogs
 
 + [Official Unreal Engine Blog](https://www.unrealengine.com/blog) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
 
 + [Michael Allar's Blog](http://allarsblog.com/)
+
+## Other Directories
+
++ [Link Collection of Tom Looman](https://unreal-engine-4.zeef.com/tom.looman)
 
 
 
@@ -122,7 +130,19 @@ MeshLab is an open source, portable, and extensible system for the processing an
 
 + [Wings 3D](http://www.wings3d.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
-## Materials
++ [Tree It](http://www.evolved-software.com/treeit/treeit) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Tree It is an easy to use real time 3d tree generator for the simple creation of your very own 3d tree models for your dark basic pro and dark GDK apps and games.
+
+## Image manipulation
+
++ [GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done.
+
++ [Krita Desktop](https://krita.org/en/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Krita Desktop is a free an open source painting application (also available in a tablet orientated variant).
 
 ## Audio
 
@@ -130,9 +150,11 @@ MeshLab is an open source, portable, and extensible system for the processing an
 
 Audacity is a free, easy-to-use, multi-track audio editor and recorder. The interface is translated into many languages.
 
-+ [Audacity](http://www.bfxr.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
++ [Bfxr](http://www.bfxr.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
 Tool for sound effect generation.
+
++ [Let's make music](https://lmms.io/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
 + [Studio One 3 Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-Free) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
@@ -382,11 +404,11 @@ Where to get assets for your next top game
 
 + [Community Driven Free Software Tools & Resources List](https://forums.unrealengine.com/showthread.php?57471-Community-List-Free-Software-Tools-amp-Resources-List) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
++ [OpenGameArt.org](http://opengameart.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+Several different asset kinds for free (2D, 3D, Concept Art, Texture, Music, Sound Effect and Document).
+
 ## Models
-
-+ [Grindstone Models](https://forums.unrealengine.com/showthread.php?60784-FREE-Various-models/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
-
-Free models of the never released game Grindstone. Modern weapons and modern room interior
 
 + [TurboSquid 3D Models for professionals](http://www.turbosquid.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
 
@@ -408,7 +430,23 @@ Blend Swap is a community of passionate Blender Artists who share their work und
 
 A model search engine, finding models in several forums and other asset stores
 
++ [Grindstone Models](https://forums.unrealengine.com/showthread.php?60784-FREE-Various-models/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
+Free models of the never released game Grindstone. Modern weapons and modern room interior
+
++ [Michal Orzelek Models](http://www.michalorzelek.com/blog/category/free-content/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+## Audio
+
++ [freesound](https://www.freesound.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
+
++ [freeSFX](http://www.freesfx.co.uk/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+## Materials and Textures
+
++ [Environment Textures](https://www.environment-textures.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
+
++ [textures.com](http://www.textures.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
 
 

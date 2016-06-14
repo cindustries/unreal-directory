@@ -34,7 +34,19 @@ MeshLab is an open source, portable, and extensible system for the processing an
 
 + [Wings 3D](http://www.wings3d.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
-## Materials
++ [Tree It](http://www.evolved-software.com/treeit/treeit) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Tree It is an easy to use real time 3d tree generator for the simple creation of your very own 3d tree models for your dark basic pro and dark GDK apps and games.
+
+## Image manipulation
+
++ [GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done.
+
++ [Krita Desktop](https://krita.org/en/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+Krita Desktop is a free an open source painting application (also available in a tablet orientated variant).
 
 ## Audio
 
@@ -42,9 +54,11 @@ MeshLab is an open source, portable, and extensible system for the processing an
 
 Audacity is a free, easy-to-use, multi-track audio editor and recorder. The interface is translated into many languages.
 
-+ [Audacity](http://www.bfxr.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
++ [Bfxr](http://www.bfxr.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
 Tool for sound effect generation.
+
++ [Let's make music](https://lmms.io/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
 + [Studio One 3 Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-Free) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 

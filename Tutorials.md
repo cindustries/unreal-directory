@@ -12,6 +12,8 @@ Very good overall tutorial about how to create a shooter game with many more add
 
 + [Unreal Engine 4 Community Tutorials](https://wiki.unrealengine.com/Category:Tutorials) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
 
++ [Tutorials list maintained by Facebook Group](https://www.facebook.com/notes/ue4-game-developers-club/tutorials/1450770775173548)
+
 ## Videos
 
 + [RTS Tutorial Series](https://www.youtube.com/playlist?list=PLDnygpcOYwFW2XtNyiandrLDG__OAZs7Q) ![19 hours 56 minutes YouTube](https://img.shields.io/badge/youtube-19h56m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)

@@ -6,11 +6,11 @@ Where to get assets for your next top game
 
 + [Community Driven Free Software Tools & Resources List](https://forums.unrealengine.com/showthread.php?57471-Community-List-Free-Software-Tools-amp-Resources-List) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
++ [OpenGameArt.org](http://opengameart.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+Several different asset kinds for free (2D, 3D, Concept Art, Texture, Music, Sound Effect and Document).
+
 ## Models
-
-+ [Grindstone Models](https://forums.unrealengine.com/showthread.php?60784-FREE-Various-models/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
-
-Free models of the never released game Grindstone. Modern weapons and modern room interior
 
 + [TurboSquid 3D Models for professionals](http://www.turbosquid.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
 
@@ -32,4 +32,20 @@ Blend Swap is a community of passionate Blender Artists who share their work und
 
 A model search engine, finding models in several forums and other asset stores
 
++ [Grindstone Models](https://forums.unrealengine.com/showthread.php?60784-FREE-Various-models/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
+Free models of the never released game Grindstone. Modern weapons and modern room interior
+
++ [Michal Orzelek Models](http://www.michalorzelek.com/blog/category/free-content/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+## Audio
+
++ [freesound](https://www.freesound.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
+
++ [freeSFX](http://www.freesfx.co.uk/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+## Materials and Textures
+
++ [Environment Textures](https://www.environment-textures.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
+
++ [textures.com](http://www.textures.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)

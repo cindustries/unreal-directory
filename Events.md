@@ -1,6 +1,6 @@
-# Events
+# Events and Meetings
 
-Where to meet Unreal Engine Developers in the real world! Also with [Events Map](Events.geojson)
+Where to meet Unreal Engine Developers in the real world! Also with [Events and Meetings Map](Events.geojson)
 
 ## Europe
 

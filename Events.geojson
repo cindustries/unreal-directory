@@ -12,7 +12,8 @@
     "properties": {
       "marker-symbol": "bar",
       "name": "<a href=\"http://www.meetup.com/Unreal-User-Group-Vienna/\">Unreal Engine Meetup Vienna</a>",
-      "address": " vrei - virtual reality lounge, Lindengasse 53, 1070 Wien, Austria"
+      "address": " vrei - virtual reality lounge, Lindengasse 53, 1070 Wien, Austria",
+      "next": "19:00 16. Jun, 2016"
     }
   },{
     "type": "Feature",
@@ -26,7 +27,8 @@
     "properties": {
       "marker-symbol": "bar",
       "name": "<a href=\"http://www.meetup.com/Unreal-Engine-User-Group-NRW/\">Unreal Engine User Group NRW</a>",
-      "address": "A&O Düsseldorf Hauptbahnhof, Corneliusstraße 9, 40215 Düsseldorf, Germany"
+      "address": "A&O Düsseldorf Hauptbahnhof, Corneliusstraße 9, 40215 Düsseldorf, Germany",
+      "next": "17:30 28. Jun, 2016"
     }
   }]
 }

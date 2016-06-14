@@ -2,7 +2,7 @@
 
 ## Software Development
 
-+ [Blender](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
++ [Visual Studio Community Edition](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
 
 Free Visual Studio Community Edition, essential for working with C++ projects or for recompiling any kind of plugins for your project.
 

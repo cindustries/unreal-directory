@@ -13,6 +13,8 @@ Very detailed blog series giving an introduction to all parts of Unreal Engine, 
 
 Very good overall tutorial about how to create a shooter game with many more additional information
 
++ [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
+
 ## Other Tutorial Directories
 
 + [Unreal Engine 4 Community Tutorials](https://wiki.unrealengine.com/Category:Tutorials) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
@@ -41,6 +43,8 @@ Kitatus exists to help you gain a better understanding of Unreal Engine 4’s fe
 
 Very good starter example set for understanding the basic functionalities of the Engine
 
++ [Old Official Example Projects](https://wiki.unrealengine.com/Category:Example_Projects) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
+
 ### Peter L. Newton
 
 Several ready to go example projects about various topics (TODO: should be sorted in onto specific topics, if possible)
@@ -58,19 +62,50 @@ Several ready to go example projects about various topics (TODO: should be sorte
 
 + [IRC Channel #unrealengine on Freenode](https://webchat.freenode.net/?channels=#unrealengine)
 
++ [Unreal Slackers](http://join.unrealslackers.org/)
+
 + [Open Facebook Group of Unreal Engine 4 Developers](https://www.facebook.com/groups/unrealfour)
 
-+ [Closed Facebook Group of Unreal Engine 4 Developers](https://www.facebook.com/groups/ue4devs)
++ [Closed Facebook Group 'ue4devs'](https://www.facebook.com/groups/ue4devs)
+
++ [Closed Facebook Group 'unrealdevs'](https://www.facebook.com/groups/unrealdevs/)
+
+## Twitter
+
++ [Official Unreal Engine Twitter](https://twitter.com/UnrealEngine) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
+
++ [Twitter of Unreal Slackers](https://twitter.com/unrealslackers)
+
++ [Twitter of Tom Looman](https://twitter.com/t_looman)
+
++ [Twitter of 'unrealdevs' on Facebook](https://twitter.com/UnrealDevs)
 
 ## Blogs
 
 + [Official Unreal Engine Blog](https://www.unrealengine.com/blog) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
 
-+ [Michael Allar's Blog](http://allarsblog.com/)
++ [Tom Loomans Blog](http://www.tomlooman.com/blog/)
+
++ [Michael Allars Blog](http://allarsblog.com/)
 
 ## Other Directories
 
 + [Link Collection of Tom Looman](https://unreal-engine-4.zeef.com/tom.looman)
+
+
+
+
+
+# Events
+
+Where to meet Unreal Engine Developers in the real world! Also with [Events Map](Events.geojson)
+
+## Europe
+
++ [Unreal Engine Meetup Vienna, Austria](http://www.meetup.com/Unreal-User-Group-Vienna/)
+
+Once a month
+
 
 
 
@@ -365,6 +400,13 @@ Audio and Blueprints
 
 
 
+# Modding
+
++ [Add mod-support to your Unreal Engine 4 Game by Tom Looman](http://www.tomlooman.com/add-mod-support-to-your-unreal-engine-4-game/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
+
+
+
+
 # Publishing
 
 ## Apple
@@ -407,6 +449,10 @@ Where to get assets for your next top game
 + [OpenGameArt.org](http://opengameart.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
 Several different asset kinds for free (2D, 3D, Concept Art, Texture, Music, Sound Effect and Document).
+
++ [Content Naming Convention](http://www.tomlooman.com/ue4-naming-convention/)
+
+Guide by Tom Looman about Content Naming Convention, good read before starting to gather assets.
 
 ## Models
 

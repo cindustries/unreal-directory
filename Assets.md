@@ -10,6 +10,10 @@ Where to get assets for your next top game
 
 Several different asset kinds for free (2D, 3D, Concept Art, Texture, Music, Sound Effect and Document).
 
++ [Content Naming Convention](http://www.tomlooman.com/ue4-naming-convention/)
+
+Guide by Tom Looman about Content Naming Convention, good read before starting to gather assets.
+
 ## Models
 
 + [TurboSquid 3D Models for professionals](http://www.turbosquid.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)

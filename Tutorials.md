@@ -8,6 +8,8 @@ Very detailed blog series giving an introduction to all parts of Unreal Engine, 
 
 Very good overall tutorial about how to create a shooter game with many more additional information
 
++ [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
+
 ## Other Tutorial Directories
 
 + [Unreal Engine 4 Community Tutorials](https://wiki.unrealengine.com/Category:Tutorials) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
@@ -35,6 +37,8 @@ Kitatus exists to help you gain a better understanding of Unreal Engine 4’s fe
 + [Official Content Examples](https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 Very good starter example set for understanding the basic functionalities of the Engine
+
++ [Old Official Example Projects](https://wiki.unrealengine.com/Category:Example_Projects) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
 
 ### Peter L. Newton
 

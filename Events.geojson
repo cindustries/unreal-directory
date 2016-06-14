@@ -1,0 +1,17 @@
+{
+  type: "FeatureCollection",
+  features: [{
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [
+        48.199509, 16.346683
+      ]
+    },
+    properties: {
+      marker-symbol: "bar",
+      name: "Unreal Engine Meetup Vienna at vrei - virtual reality lounge",
+      address: "Lindengasse 53, 1070 Wien, Austria"
+    }
+  }]
+}

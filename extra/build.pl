@@ -19,6 +19,7 @@ $readme->append((path($FindBin::Dir,'..')->child($_.'.md')->slurp)."\n\n\n\n") f
 
   Tutorials
   Community
+  Events
   Editor
   Tools
   Blueprint
@@ -32,6 +33,7 @@ $readme->append((path($FindBin::Dir,'..')->child($_.'.md')->slurp)."\n\n\n\n") f
   Audio
   Networking
   BehaviorTree
+  Modding
   Publishing
   Monetization
   Assets

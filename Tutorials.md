@@ -8,8 +8,9 @@ Very detailed blog series giving an introduction to all parts of Unreal Engine, 
 
 Very good overall tutorial about how to create a shooter game with many more additional information
 
-+ [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
++ [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
++ [UE4U - Tutorial collection] (http://www.ue4u.xyz/)
 + [YT UE4 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 + [Several Blueprint Solution tutorial videos](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)

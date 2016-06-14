@@ -98,7 +98,7 @@ Several ready to go example projects about various topics (TODO: should be sorte
 
 # Events and Meetings
 
-Where to meet Unreal Engine Developers in the real world! Also with [Events and Meetings Map](Events.geojson)
+Here is a [Map](Events.geojson) of all meeting groups and events.
 
 ## Europe
 

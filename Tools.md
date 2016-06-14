@@ -38,6 +38,12 @@ MeshLab is an open source, portable, and extensible system for the processing an
 
 Tree It is an easy to use real time 3d tree generator for the simple creation of your very own 3d tree models for your dark basic pro and dark GDK apps and games.
 
++ [Spacescape](http://alexcpeterson.com/spacescape/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Spacescape is a free tool for creating space skyboxes with stars and nebulas.
+
++ [Terrain Generator](http://nemesis.thewavelength.net/index.php?p=9) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
 ## Image manipulation
 
 + [GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)

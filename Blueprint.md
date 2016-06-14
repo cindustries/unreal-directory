@@ -8,7 +8,8 @@ Working with Blueprints
 
 + [How boolean gates operate: For Beginners](https://forums.unrealengine.com/showthread.php?100612-How-boolean-gates-operate-For-Beginners) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
-+ [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) ![beginner friendly](https://img.shields.io/badge/forum-epic-lightgrey.svg)
++ [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) 
+![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 ## Blueprint Libraries
 

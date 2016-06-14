@@ -10,10 +10,6 @@ Working with Blueprints
 
 + [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
-+ [YT UE4 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
-
-+ [Several Blueprint Solution tutorial videos](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
-
 ## Blueprint Libraries
 
 + [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)

@@ -14,5 +14,19 @@
       "name": "Unreal Engine Meetup Vienna at vrei - virtual reality lounge",
       "address": "Lindengasse 53, 1070 Wien, Austria"
     }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.782216,
+        51.216447
+      ]
+    },
+    "properties": {
+      "marker-symbol": "bar",
+      "name": "Unreal Engine User Group NRW at A&O Düsseldorf Hauptbahnhof",
+      "address": "Corneliusstraße 9, A40215 Düsseldorf, Germany"
+    }
   }]
 }

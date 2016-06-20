@@ -70,9 +70,9 @@ Tool for sound effect generation.
 
 Free version of a high class audio software.
 
-+ [Ohm Studio](https://www.ohmstudio.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
++ [Ohm Studio](https://www.ohmstudio.com/) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
 
-Real-time Colleborative DAW 
+Real-time Colleborative DAW (Free for up to 10 Projects)
 
 ## Animation
 

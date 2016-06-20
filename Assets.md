@@ -50,8 +50,6 @@ Thousands of free models of different categories
 
 + [Steve Lois](https://stevelois.wordpress.com/ue4/ue4-resources/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
-+ [3DModelFree](http://3dmodelfree.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
-
 + [Blender 3D Model Repository](https://www.blender-models.com) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
 

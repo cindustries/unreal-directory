@@ -46,7 +46,7 @@ Free models of the never released game Grindstone. Modern weapons and modern roo
 
 Thousands of free models of different categories
 
-+ [Oyonale - 3D art and graphic experiments](http://oyonale.com/modeles.php?lang=en)
++ [Oyonale - 3D art and graphic experiments](http://oyonale.com/modeles.php?lang=en) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
 + [Steve Lois](https://stevelois.wordpress.com/ue4/ue4-resources/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 

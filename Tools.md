@@ -44,6 +44,10 @@ Spacescape is a free tool for creating space skyboxes with stars and nebulas.
 
 + [Terrain Generator](http://nemesis.thewavelength.net/index.php?p=9) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
 
++ [Autodesk FBX converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+This utility enables you to convert OBJ, DXF™, DAE, and 3DS files to or from multiple versions of the FBX format.
+
 ## Image manipulation
 
 + [GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)

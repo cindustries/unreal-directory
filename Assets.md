@@ -42,14 +42,35 @@ Free models of the never released game Grindstone. Modern weapons and modern roo
 
 + [Michal Orzelek Models](http://www.michalorzelek.com/blog/category/free-content/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
++ [Archive3D.net](http://archive3d.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+Thousands of free models of different categories
+
++ [Oyonale - 3D art and graphic experiments](http://oyonale.com/modeles.php?lang=en)
+
++ [Steve Lois](https://stevelois.wordpress.com/ue4/ue4-resources/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [3DModelFree](http://3dmodelfree.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Blender 3D Model Repository](https://www.blender-models.com) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+
 ## Audio
 
 + [freesound](https://www.freesound.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
 
 + [freeSFX](http://www.freesfx.co.uk/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
++ [99Sounds](http://99sounds.org/free-sound-effects/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Soundimage](http://soundimage.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+
 ## Materials and Textures
 
 + [Environment Textures](https://www.environment-textures.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
 
 + [textures.com](http://www.textures.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Mayang's Free Textures](http://mayang.com/textures/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+

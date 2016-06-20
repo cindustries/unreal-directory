@@ -70,6 +70,10 @@ Tool for sound effect generation.
 
 Free version of a high class audio software.
 
++ [Ohm Studio](https://www.ohmstudio.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Real-time Colleborative DAW 
+
 ## Animation
 
 + [Maya](http://www.autodesk.de/products/maya/overview) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)

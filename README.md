@@ -172,6 +172,10 @@ Spacescape is a free tool for creating space skyboxes with stars and nebulas.
 
 + [Terrain Generator](http://nemesis.thewavelength.net/index.php?p=9) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
 
++ [Autodesk FBX converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+This utility enables you to convert OBJ, DXF™, DAE, and 3DS files to or from multiple versions of the FBX format.
+
 ## Image manipulation
 
 + [GNU Image Manipulation Program (GIMP)](http://www.gimp.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
@@ -197,6 +201,10 @@ Tool for sound effect generation.
 + [Studio One 3 Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-Free) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
 
 Free version of a high class audio software.
+
++ [Ohm Studio](https://www.ohmstudio.com/) ![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+
+Real-time Colleborative DAW (Free for up to 10 Projects)
 
 ## Animation
 
@@ -490,17 +498,36 @@ Free models of the never released game Grindstone. Modern weapons and modern roo
 
 + [Michal Orzelek Models](http://www.michalorzelek.com/blog/category/free-content/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
++ [Archive3D.net](http://archive3d.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+Thousands of free models of different categories
+
++ [Oyonale - 3D art and graphic experiments](http://oyonale.com/modeles.php?lang=en) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Steve Lois](https://stevelois.wordpress.com/ue4/ue4-resources/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Blender 3D Model Repository](https://www.blender-models.com) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+
 ## Audio
 
 + [freesound](https://www.freesound.org/) ![Creative Common License](https://img.shields.io/badge/license-cc-yellowgreen.svg)
 
 + [freeSFX](http://www.freesfx.co.uk/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
++ [99Sounds](http://99sounds.org/free-sound-effects/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Soundimage](http://soundimage.org/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
+
 ## Materials and Textures
 
 + [Environment Textures](https://www.environment-textures.com/) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
 
 + [textures.com](http://www.textures.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
++ [Mayang's Free Textures](http://mayang.com/textures/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
+
 
 
 

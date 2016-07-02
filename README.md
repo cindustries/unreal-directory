@@ -119,6 +119,11 @@ Resources around the editor
 
 ## Plugins
 
++ [An Introduction to UE4 Plugins](https://wiki.unrealengine.com/An_Introduction_to_UE4_Plugins) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
+
++ [GitHub organization with lots of Open Source UE4 Plugins](https://github.com/ue4plugins) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
+
+Very awesome plugins collection with good simple design as base for own plugins.
 
 
 
@@ -264,8 +269,9 @@ Very comprehensive tutorial making a sample game, sample game itself downloadabl
 
 + [Overview of C++ libraries available through engine core](https://www.unrealengine.com/blog/ue4-libraries-you-should-know-about) ![Blog Epic](https://img.shields.io/badge/blog-epic-lightgrey.svg)
 
++ [Custom Blueprint Node Creation](https://wiki.unrealengine.com/Custom_Blueprint_Node_Creation) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-
++ [Creating C++ Functions as new Blueprint Nodes](https://wiki.unrealengine.com/Blueprints,_Creating_C%2B%2B_Functions_as_new_Blueprint_Nodes) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 
 

@@ -12,3 +12,8 @@ Resources around the editor
 
 ## Plugins
 
++ [An Introduction to UE4 Plugins](https://wiki.unrealengine.com/An_Introduction_to_UE4_Plugins) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
+
++ [GitHub organization with lots of Open Source UE4 Plugins](https://github.com/ue4plugins) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
+
+Very awesome plugins collection with good simple design as base for own plugins.

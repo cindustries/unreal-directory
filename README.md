@@ -15,7 +15,8 @@ Very good overall tutorial about how to create a shooter game with many more add
 
 + [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
-+ [UE4U - Tutorial collection] (http://www.ue4u.xyz/)
++ [UE4U - Tutorial collection](http://www.ue4u.xyz/)
+
 + [YT UE4 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 + [Several Blueprint Solution tutorial videos](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
@@ -49,10 +50,6 @@ Kitatus exists to help you gain a better understanding of Unreal Engine 4’s fe
 Very good starter example set for understanding the basic functionalities of the Engine
 
 + [Old Official Example Projects](https://wiki.unrealengine.com/Category:Example_Projects) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
-
-### Peter L. Newton
-
-Several ready to go example projects about various topics (TODO: should be sorted in onto specific topics, if possible)
 
 + [Sliding Cards](http://www.mediafire.com/download/e9i62cu9t2g2car)
 
@@ -259,7 +256,13 @@ Very awesome Blueprint Library, a must have for every project
 
 Working with C++ in General
 
-+ [Entry Level Guide to UE4 C++](https://wiki.unrealengine.com/Entry_Level_Guide_to_UE4_C%2B%2B) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![C++ solution](https://img.shields.io/badge/c++-solution-red.svg)
++ [Entry Level Guide to UE4 C++](https://wiki.unrealengine.com/Entry_Level_Guide_to_UE4_C%2B%2B) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![C++ solution](https://img.shields.io/badge/c++-solution-yellow.svg)
+
++ [BatteryCollector Tutorial by Epic](https://www.youtube.com/playlist?list=PL5UgaN3pPGRu_7Rn5ME7FwJm73249Dgeo) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg) ![C++ solution](https://img.shields.io/badge/c++-solution-yellow.svg) ![3 hours 53 minutes YouTube](https://img.shields.io/badge/youtube-3h_53m-red.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
+
+Very comprehensive tutorial making a sample game, sample game itself downloadable. Playlist made by me, as there exist none(?!).
+
++ [Overview of C++ libraries available through engine core](https://www.unrealengine.com/blog/ue4-libraries-you-should-know-about) ![Blog Epic](https://img.shields.io/badge/blog-epic-lightgrey.svg)
 
 
 
@@ -275,6 +278,8 @@ Working with C++ in General
 Tutorial specific to realize classical RTS pawn movement without using Behaviour Tree
 
 + [Basic AI Navigation](https://www.youtube.com/watch?v=-KDazrBx6IY) ![7 minutes YouTube](https://img.shields.io/badge/youtube-7m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
++ [Free 3D Pathfinding Plugin out of Drunk On Nectar](https://github.com/VSZue/DonAINavigation) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
 
 ## Player Controller
 
@@ -298,6 +303,7 @@ Creating a dynamic forest at runtime
 
 Generating Buildings through Blueprints
 
++ [Procedural Level Generation](https://www.youtube.com/watch?v=VmRggTwhiew) ![14 minutes YouTube](https://img.shields.io/badge/youtube-14m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 
 
@@ -390,14 +396,32 @@ Audio and Blueprints
 
 
 
+# Effects
+
++ [Fake thruster implementation in Blueprints](https://protosity.wordpress.com/2015/12/14/spaceracer-game-project-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
+A very understandable simple solution for making thruster lit depending on action of the player. This is no solution where the thruster actually do the movement.
+
++ [SmearFrame by Jan Kaluza](https://github.com/LuggLD/SmearFrame) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
+
+An Overwatch-like smear effect solution.
+
+
+
+
 # Networking
 
-+ [Network Compendium PDF](http://cedric.bnslv.de/Downloads/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf)
++ [Introduction to Unreal Networking by Nuno Afonso](www.nafonso.com/home/unreal-framework-network) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) 
+
+A must read for everyone who wants to make a network game with Unreal Engine.
+
++ [Network Compendium PDF by Cedric Neukirchen](http://cedric.bnslv.de/Downloads/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf)
 
 111 Pages with everything about Networking in Unreal Engine 4 by Cedric 'eXi' Neukirchen
 
 + [Come Learn Blueprint Multiplayer with me! aka Tom's a Glutton for Punishment](https://forums.unrealengine.com/showthread.php?2107-Come-Learn-Blueprint-Multiplayer-with-me!-%28aka-Tom-s-a-Glutton-for-Punishment%29) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
++ [Building a dedicated server in Unreal Engine 4](http://blog.piinecone.com/post/96800987702/building-a-dedicated-server-in-unreal-engine-4) ![Blog without comments](https://img.shields.io/badge/blog-no_comments-orange.svg) 
 
 
 
@@ -411,7 +435,6 @@ Audio and Blueprints
 + [Behavior Tree & EQS Example Project by Peter L. Newton](http://www.mediafire.com/download/5sbwgi13vibn50q) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
 
 + [AI Behavior Tree & NavMesh](https://www.youtube.com/watch?v=VAAHKNoIg0w) ![1 hour 16 minutes YouTube](https://img.shields.io/badge/youtube-1h16m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
-
 
 
 
@@ -450,6 +473,28 @@ API of Steam to be integrated into the game for getting full access of the optio
 + [Using Ad Mob In-Game Ads on Android](https://docs.unrealengine.com/latest/INT/Platforms/Android/Ads/) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg)
 
 + [Using In-App Purchases on Android](https://docs.unrealengine.com/latest/INT/BlueprintAPI/Components/ProceduralMesh/index.html) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg)
+
+
+
+
+# Game Development
+
+General informations about game development or related topics, unrelated to Unreal Engine
+
++ [Miscellaneous game theories covered by Red Blob Games](http://www.redblobgames.com/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
+
+## Worlds
+
++ [Making Worlds Introduction](http://acko.net/blog/making-worlds-introduction/) ![Blog without comments](https://img.shields.io/badge/blog-no_comments-orange.svg) 
+
+A very good introduction about how to make sphere worlds work in game engines in general. Especially very good explaination about the "sphere to cube" problem.
+
+## Networking
+
++ [Source Engine Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) ![Official Valve](https://img.shields.io/badge/official-valve-000000.svg)
+
+A compact description about how network play in source engine works, reveals a good basic understandment about what networking actually means in the game. Again: Unrelated to Unreal Engine, its the Source Engine
+
 
 
 
@@ -542,8 +587,11 @@ Great collection of Arcade Games as Template for using to make own games
 
 ## Open Source
 
-## Commercial
++ [Awesome Space Physics Sample Game](https://forums.unrealengine.com/showthread.php?94642-FREE-PROJECT-Physics-Driven-Spacecraft) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
+A very good sample game, which is a must see for every sci fi game to understand the real physics behind thruster. *Editors Choice ;)*
+
+## Commercial
 
 
 

@@ -31,11 +31,13 @@ $readme->append((path($FindBin::Dir,'..')->child($_.'.md')->slurp)."\n\n\n\n") f
   Models
   Materials
   Audio
+  Effects
   Networking
   BehaviorTree
   Modding
   Publishing
   Monetization
+  GameDevelopment
   Assets
   Games
 

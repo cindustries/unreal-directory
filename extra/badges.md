@@ -2,6 +2,8 @@
 
 ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
 
+![Blog Epic](https://img.shields.io/badge/blog-epic-lightgrey.svg)
+
 ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
 ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg)
@@ -15,6 +17,8 @@
 ![Official Steam](https://img.shields.io/badge/official-steam-000000.svg)
 
 ![Official Microsoft](https://img.shields.io/badge/official-microsoft-blue.svg)
+
+![Official Valve](https://img.shields.io/badge/official-valve-000000.svg)
 
 + Licenses
 
@@ -40,13 +44,19 @@
 
 ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
-![C++ solution](https://img.shields.io/badge/c++-solution-red.svg)
+![C++ solution](https://img.shields.io/badge/c++-solution-yellow.svg)
+
+![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
+
+![Engine Plugin binaries only](https://img.shields.io/badge/plugin_bin-solution-red.svg)
 
 + External Type
 
 ![2 days 7 hours 1 minute YouTube](https://img.shields.io/badge/youtube-2d7h1m-red.svg)
 
 ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) 
+
+![Blog without comments](https://img.shields.io/badge/blog-no_comments-orange.svg) 
 
 + Operating System
 

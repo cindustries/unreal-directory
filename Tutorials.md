@@ -10,7 +10,8 @@ Very good overall tutorial about how to create a shooter game with many more add
 
 + [Getting Started With Unreal Engine 4 by Tom Looman](http://www.tomlooman.com/getting-started-with-unreal-engine-4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
-+ [UE4U - Tutorial collection] (http://www.ue4u.xyz/)
++ [UE4U - Tutorial collection](http://www.ue4u.xyz/)
+
 + [YT UE4 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
 + [Several Blueprint Solution tutorial videos](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
@@ -44,9 +45,5 @@ Kitatus exists to help you gain a better understanding of Unreal Engine 4’s fe
 Very good starter example set for understanding the basic functionalities of the Engine
 
 + [Old Official Example Projects](https://wiki.unrealengine.com/Category:Example_Projects) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
-
-### Peter L. Newton
-
-Several ready to go example projects about various topics (TODO: should be sorted in onto specific topics, if possible)
 
 + [Sliding Cards](http://www.mediafire.com/download/e9i62cu9t2g2car)

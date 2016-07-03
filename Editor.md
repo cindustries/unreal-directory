@@ -6,6 +6,8 @@ Resources around the editor
 
 + [Change Vault Cache Path](http://nerd-time.com/change-vault-cache-path-ue4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
 
++ [Installing UE4 to a different hard drive](https://wiki.unrealengine.com/Installing_UE4_To_A_Different_Hard_Drive) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg)
+
 ## Teamwork
 
 ## Source Control

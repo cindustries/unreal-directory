@@ -249,6 +249,8 @@ Working with Blueprints
 
 + [Blueprint Compendium](http://romeroblueprints.blogspot.de/p/table-of-contents.html) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
 
++ [Helpful Blueprint Functions](https://forums.unrealengine.com/showthread.php?10381-Blueprint-Helpful-BP-Functions) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
+
 ## Blueprint Libraries
 
 + [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
@@ -274,6 +276,9 @@ Very comprehensive tutorial making a sample game, sample game itself downloadabl
 + [Custom Blueprint Node Creation](https://wiki.unrealengine.com/Custom_Blueprint_Node_Creation) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 + [Creating C++ Functions as new Blueprint Nodes](https://wiki.unrealengine.com/Blueprints,_Creating_C%2B%2B_Functions_as_new_Blueprint_Nodes) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
++ [Debugging within C++](https://wiki.unrealengine.com/Logs,_Printing_Messages_To_Yourself_During_Runtime) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
 
 
 

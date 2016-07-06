@@ -14,7 +14,7 @@ Working with Blueprints
 
 ## Blueprint Libraries
 
-+ [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
++ [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
 
 Very awesome Blueprint Library, a must have for every project
 

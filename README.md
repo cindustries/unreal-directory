@@ -253,7 +253,7 @@ Working with Blueprints
 
 ## Blueprint Libraries
 
-+ [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
++ [Rama's Victory Blueprint Library](https://github.com/EverNewJoy/VictoryPlugin) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
 
 Very awesome Blueprint Library, a must have for every project
 
@@ -378,6 +378,8 @@ Everything about models
 + [Procedural Mesh Component Documentation](https://docs.unrealengine.com/latest/INT/BlueprintAPI/Components/ProceduralMesh/index.html) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg)
 
 + [How to use Procedural Mesh Component in Blueprint?](https://answers.unrealengine.com/questions/295318/how-to-use-procedural-mesh-component-in-blueprint.html) ![UE4 AnswerHub](https://img.shields.io/badge/answerhub-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
++ [Plugin providing Procedural Mesh Generation](https://github.com/SRombauts/UE4ProceduralMesh) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
 
 ## Spline Mesh
 

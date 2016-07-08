@@ -92,6 +92,12 @@ Real-time Colleborative DAW (Free for up to 10 Projects)
 
 Fusion is the world’s most advanced compositing software for visual effects artists, broadcast and motion graphic designers and 3D animators.
 
+## Learning / Analyze
+
++ [Physics tracker software, to analyze physics behind video material](http://physlets.org/tracker/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+This tool might be interesting for people creating new own assets. It allows to parse a video and get usable data from it, on a more phyiscal orientated level, to being for example feed to a game engine to get some real natural movements or event chains.
+
 ## Streaming / Capturing
 
 + [Open Broadcaster Software](https://obsproject.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)

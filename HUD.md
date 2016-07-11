@@ -12,3 +12,5 @@
 
 + [Communicating between widgets and blueprints with Event Dispatchers](https://www.youtube.com/watch?v=z4Xv_WNxpIE) ![45 minutes YouTube](https://img.shields.io/badge/youtube-45m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
++ [Render 3D objects in UMG Widget/HUD](https://engineunreal.wordpress.com/2015/04/21/render-3d-objects-in-umg-widget-hud/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
+

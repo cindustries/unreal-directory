@@ -224,6 +224,12 @@ Real-time Colleborative DAW (Free for up to 10 Projects)
 
 Fusion is the world’s most advanced compositing software for visual effects artists, broadcast and motion graphic designers and 3D animators.
 
+## Learning / Analyze
+
++ [Physics tracker software, to analyze physics behind video material](http://physlets.org/tracker/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
+
+This tool might be interesting for people creating new own assets. It allows to parse a video and get usable data from it, on a more phyiscal orientated level, to being for example feed to a game engine to get some real natural movements or event chains.
+
 ## Streaming / Capturing
 
 + [Open Broadcaster Software](https://obsproject.com/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg) ![Windows](https://img.shields.io/badge/os-windows-blue.svg) ![Linux](https://img.shields.io/badge/os-linux-yellow.svg) ![Mac](https://img.shields.io/badge/os-mac-orange.svg)
@@ -335,6 +341,8 @@ Generating Buildings through Blueprints
 
 + [Communicating between widgets and blueprints with Event Dispatchers](https://www.youtube.com/watch?v=z4Xv_WNxpIE) ![45 minutes YouTube](https://img.shields.io/badge/youtube-45m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
++ [Render 3D objects in UMG Widget/HUD](https://engineunreal.wordpress.com/2015/04/21/render-3d-objects-in-umg-widget-hud/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
+
 
 
 
@@ -380,6 +388,8 @@ Everything about models
 + [How to use Procedural Mesh Component in Blueprint?](https://answers.unrealengine.com/questions/295318/how-to-use-procedural-mesh-component-in-blueprint.html) ![UE4 AnswerHub](https://img.shields.io/badge/answerhub-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 + [Plugin providing Procedural Mesh Generation](https://github.com/SRombauts/UE4ProceduralMesh) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
+
++ [Plugin for creation of volumetric (voxel-based) environments which can be dynamically modified in-game, enabling dynamic digging, building, and destruction](https://github.com/volumesoffun/cubiquity-for-unreal-engine) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
 
 ## Spline Mesh
 

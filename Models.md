@@ -14,6 +14,8 @@ Everything about models
 
 + [An Ocean Simulation community project for Unreal Engine 4](https://github.com/UE4-OceanProject/OceanProject) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
 
++ [RuntimeMeshComponent - an alternative for ProceduralMeshComponent and CustomMeshComponent](https://github.com/Koderz/UE4RuntimeMeshComponent) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
+
 ## Spline Mesh
 
 + [Spline Mesh Component Example Project by Peter L. Newton](http://www.mediafire.com/download/d9deqsc84aaii9f) ![UE4 AnswerHub](https://img.shields.io/badge/answerhub-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)

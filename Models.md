@@ -4,9 +4,9 @@ Everything about models
 
 ## Education
 
-+ [Very informative video about the base elements of a mesh](https://www.youtube.com/watch?v=G-K7WT9IIok) ![13 minutes YouTube](https://img.shields.io/badge/youtube-13m-red.svg)
++ [3DSMax User explaining normals a bit](https://www.youtube.com/watch?v=G-K7WT9IIok) ![13 minutes YouTube](https://img.shields.io/badge/youtube-13m-red.svg)
 
-Even tho this video is about a 3DSMax user it is one of the most straight forward videos I found so far that lets you dive into the world of Mesh, Vertexes and Normals. *Editors Choice*
+Even tho this video is about a 3DSMax user it is helping to understand the concepts of normals and brings this a bit more near.
 
 ## Procedural Mesh
 

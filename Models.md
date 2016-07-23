@@ -2,6 +2,12 @@
 
 Everything about models
 
+## Education
+
++ [Very informative video about the base elements of a mesh](https://www.youtube.com/watch?v=G-K7WT9IIok) ![13 minutes YouTube](https://img.shields.io/badge/youtube-13m-red.svg)
+
+Even tho this video is about a 3DSMax user it is one of the most straight forward videos I found so far that lets you dive into the world of Mesh, Vertexes and Normals. *Editors Choice*
+
 ## Procedural Mesh
 
 + [Procedural Mesh Component Documentation](https://docs.unrealengine.com/latest/INT/BlueprintAPI/Components/ProceduralMesh/index.html) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg)

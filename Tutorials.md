@@ -51,12 +51,6 @@ Very good starter example set for understanding the basic functionalities of the
 + [Docking Bay94](https://docs.google.com/uc?id=0BzdDobhULKZEdVFvcmFWT3ZUM2s&export=download)  ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg) 
 ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
 
-Star Wars themed sample project described in this [Article](http://80.lv/articles/star-wars-scene-production-in-ue4/) 
-
-Other Mirrors:
-
-1. [Mirror 1](https://drive.google.com/drive/folders/0B0asj85K0xKQeVI2QUNuYkFXMUU)
-
-2. [Mirror 2](https://drive.google.com/file/d/0B9zHIQSjOYuYSEZhdGZDUnhrRUU/view)
+Star Wars themed sample project described in this [Article](http://80.lv/articles/star-wars-scene-production-in-ue4/). Other Mirrors: [Mirror 1](https://drive.google.com/drive/folders/0B0asj85K0xKQeVI2QUNuYkFXMUU) [Mirror 2](https://drive.google.com/file/d/0B9zHIQSjOYuYSEZhdGZDUnhrRUU/view)
 
 

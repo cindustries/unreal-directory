@@ -72,3 +72,6 @@ Thousands of free models of different categories
 
 + [Mayang's Free Textures](http://mayang.com/textures/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
+
+## Icons
++ [game-icons.net](http://game-icons.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)

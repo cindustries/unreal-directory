@@ -2,6 +2,8 @@
 
 Resources around the editor
 
++ [Intro to the UE4 Editor](https://www.youtube.com/playlist?list=PLZlv_N0_O1gasd4IcOe9Cx9wHoBB7rxFl) ![1 hour 29 minutes YouTube](https://img.shields.io/badge/youtube-1h29m-red.svg)
+
 ## Configuration
 
 + [Change Vault Cache Path](http://nerd-time.com/change-vault-cache-path-ue4/) ![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)

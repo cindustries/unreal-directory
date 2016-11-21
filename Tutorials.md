@@ -38,6 +38,8 @@ Gigantic tutorial about how to build a RTS (yes, 2 days of Youtube video)
 
 Kitatus exists to help you gain a better understanding of Unreal Engine 4’s features and helps you take your projects to the next level
 
++ [Unreal Essential Training - Lynda.com](https://www.lynda.com/Unreal-Engine-tutorials/Unreal-Essential-Training/424941-2.html)
+
 ## Sample
 
 + [Official Content Examples](https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)

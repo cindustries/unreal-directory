@@ -43,6 +43,8 @@ Gigantic tutorial about how to build a RTS (yes, 2 days of Youtube video)
 
 Kitatus exists to help you gain a better understanding of Unreal Engine 4’s features and helps you take your projects to the next level
 
++ [Unreal Essential Training - Lynda.com](https://www.lynda.com/Unreal-Engine-tutorials/Unreal-Essential-Training/424941-2.html)
+
 ## Sample
 
 + [Official Content Examples](https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg) ![Beginner friendly](https://img.shields.io/badge/beginner-friendly-orange.svg)
@@ -52,6 +54,13 @@ Very good starter example set for understanding the basic functionalities of the
 + [Old Official Example Projects](https://wiki.unrealengine.com/Category:Example_Projects) ![Documentation Epic](https://img.shields.io/badge/documentation-epic-lightgrey.svg) ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg)
 
 + [Sliding Cards](http://www.mediafire.com/download/e9i62cu9t2g2car)
+
++ [Docking Bay94](https://docs.google.com/uc?id=0BzdDobhULKZEdVFvcmFWT3ZUM2s&export=download)  ![Example Project](https://img.shields.io/badge/full-sample-brightgreen.svg) 
+![Blog with comments](https://img.shields.io/badge/blog-comments-yellow.svg)
+
+Star Wars themed sample project described in this [Article](http://80.lv/articles/star-wars-scene-production-in-ue4/). Other Mirrors: [Mirror 1](https://drive.google.com/drive/folders/0B0asj85K0xKQeVI2QUNuYkFXMUU) [Mirror 2](https://drive.google.com/file/d/0B9zHIQSjOYuYSEZhdGZDUnhrRUU/view)
+
+
 
 
 
@@ -108,6 +117,8 @@ Here is a [Map](Events.geojson) of all meeting groups and events.
 # Editor
 
 Resources around the editor
+
++ [Intro to the UE4 Editor](https://www.youtube.com/playlist?list=PLZlv_N0_O1gasd4IcOe9Cx9wHoBB7rxFl) ![1 hour 29 minutes YouTube](https://img.shields.io/badge/youtube-1h29m-red.svg)
 
 ## Configuration
 
@@ -323,6 +334,8 @@ Creating a dynamic forest at runtime
 Generating Buildings through Blueprints
 
 + [Procedural Level Generation](https://www.youtube.com/watch?v=VmRggTwhiew) ![14 minutes YouTube](https://img.shields.io/badge/youtube-14m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
++ [Procedural Voxel Terrain](https://github.com/bw2012/UE4VoxelTerrain) ![C++ solution](https://img.shields.io/badge/c++-solution-yellow.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)
 
 
 
@@ -612,6 +625,9 @@ Thousands of free models of different categories
 
 + [Mayang's Free Textures](http://mayang.com/textures/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
+
+## Icons
++ [game-icons.net](http://game-icons.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
 
 

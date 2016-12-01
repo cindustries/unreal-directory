@@ -13,3 +13,5 @@ Creating a dynamic forest at runtime
 Generating Buildings through Blueprints
 
 + [Procedural Level Generation](https://www.youtube.com/watch?v=VmRggTwhiew) ![14 minutes YouTube](https://img.shields.io/badge/youtube-14m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
++ [Procedural Voxel Terrain](https://github.com/bw2012/UE4VoxelTerrain) ![C++ solution](https://img.shields.io/badge/c++-solution-yellow.svg) ![Engine Plugin with source code](https://img.shields.io/badge/plugin_src-solution-orange.svg)

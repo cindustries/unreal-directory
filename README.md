@@ -37,6 +37,10 @@ Very good tutorial about how to build a RTS
 
 Gigantic tutorial about how to build a RTS (yes, 2 days of Youtube video)
 
++ [Third Person Shooter Tutorial](https://www.youtube.com/playlist?list=PL4wXBehVu_5-SlRrhdvpd7RlczgJkfftG) ![3 hours 28 minutes YouTube](https://img.shields.io/badge/youtube-3h28m-red.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
+Very good tutorial of all basics with very recent version in usage.
+
 ## Courses
 
 + [Kitatus](http://kitatus.co.uk/)
@@ -585,7 +589,7 @@ Blend Swap is a community of passionate Blender Artists who share their work und
 
 + [CreativeCrash](https://www.creativecrash.com) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
 
-+ [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/) ![Mixed Licenses](https://img.shields.io/badge/license-mixed-blue.svg)
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/) ![Mixed Licenses](https://img.shields.io/badge/license-mixed-blue.svg)
 
 A model search engine, finding models in several forums and other asset stores
 
@@ -627,6 +631,7 @@ Thousands of free models of different categories
 
 
 ## Icons
+
 + [game-icons.net](http://game-icons.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)
 
 

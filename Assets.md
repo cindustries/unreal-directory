@@ -32,7 +32,7 @@ Blend Swap is a community of passionate Blender Artists who share their work und
 
 + [CreativeCrash](https://www.creativecrash.com) ![Commercial License](https://img.shields.io/badge/license-commercial-red.svg)
 
-+ [Yobi3D](https://www.yobi3d.com/)
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/) ![Mixed Licenses](https://img.shields.io/badge/license-mixed-blue.svg)
 
 A model search engine, finding models in several forums and other asset stores
 
@@ -74,4 +74,5 @@ Thousands of free models of different categories
 
 
 ## Icons
+
 + [game-icons.net](http://game-icons.net/) ![Free](https://img.shields.io/badge/license-free-brightgreen.svg)

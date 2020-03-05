@@ -12,7 +12,7 @@ Working with Blueprints
 
 + [Helpful Blueprint Functions](https://forums.unrealengine.com/showthread.php?10381-Blueprint-Helpful-BP-Functions) ![Forum Epic](https://img.shields.io/badge/forum-epic-lightgrey.svg)
 
-+ [Blueprint Communications](https://www.youtube.com/watch?v=EM_HYqQdToE) ![2 hours 22 minutes YouTube](https://img.shields.io/badge/youtube-1h29m-red.svg) ![Unreal Live Training](https://img.shields.io/badge/Unreal-Live%20Training-blue.svg) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
++ [Blueprint Communications](https://www.youtube.com/watch?v=EM_HYqQdToE) ![2 hours 22 minutes YouTube](https://img.shields.io/badge/youtube-2h22m-red.svg) ![Unreal Live Training](https://img.shields.io/badge/Unreal-Live%20Training-blue.svg) ![Official Epic](https://img.shields.io/badge/official-epic-lightgrey.svg)
 
 ## Blueprint Libraries
 

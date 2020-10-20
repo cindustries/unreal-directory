@@ -37,6 +37,9 @@ Gigantic tutorial about how to build a RTS (yes, 2 days of Youtube video)
 Very good tutorial of all basics with very recent version in usage.
 
 ## Courses
++ [Navigating Large Codebases](https://epicgames.ent.box.com/v/NavigatingLargeCodebases)
+
+Set of open-source lectures, assignments and project files offered free of charge that guides students from creating simple materials and Blueprints in the Editor all the way to implementing their own shader code directly into the engine using C++ and HLSL.
 
 + [Kitatus](http://kitatus.co.uk/)
 

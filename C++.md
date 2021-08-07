@@ -15,3 +15,5 @@ Very comprehensive tutorial making a sample game, sample game itself downloadabl
 + [Creating C++ Functions as new Blueprint Nodes](https://wiki.unrealengine.com/Blueprints,_Creating_C%2B%2B_Functions_as_new_Blueprint_Nodes) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
 
 + [Debugging within C++](https://wiki.unrealengine.com/Logs,_Printing_Messages_To_Yourself_During_Runtime) ![Wiki Epic](https://img.shields.io/badge/wiki-epic-lightgrey.svg) ![Blueprint solution](https://img.shields.io/badge/blueprint-solution-blue.svg)
+
++ [Gameplay Ability System Documentation by Tranek](https://github.com/tranek/GASDocumentation) ![C++ solution](https://img.shields.io/badge/c++-solution-yellow.svg)
